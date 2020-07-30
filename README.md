@@ -1,0 +1,2 @@
+# Freyr
+Universal Mod Manager
